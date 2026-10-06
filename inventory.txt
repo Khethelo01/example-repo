@@ -1,0 +1,7 @@
+Country,Code,Product,Cost,Quantity
+South Africa,SKU001,Air Max,1500,10
+United Kingdom,SKU002,Air Force 1,1200,5
+United States,SKU003,Revolution,900,25Country,Code,Product,Cost,Quantity
+South Africa,SKU001,Air Max,1500,10
+United Kingdom,SKU002,Air Force 1,1200,5
+United States,SKU003,Revolution,900,25
